@@ -21,7 +21,7 @@
 ## 🎓 Education
 - **Posts and Telecommunications Institute of Technology**  
   📚 *2023 – 2028*  
-  Ngành: **UI/UX Design**  
+  Ngành: **Multimedia Technology**  
 
 ---
 
