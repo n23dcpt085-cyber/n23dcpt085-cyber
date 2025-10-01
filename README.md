@@ -37,11 +37,14 @@
 
 ---
 
-## 🔗 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/n23dcpt085-cyber)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9ccaff?style=flat&logo=linkedin&logoColor=0A66C2)](#)  
-[![Behance](https://img.shields.io/badge/Behance-bdd9ff?style=flat&logo=behance&logoColor=1769ff)](#)  
-[![Dribbble](https://img.shields.io/badge/Dribbble-ffd6e8?style=flat&logo=dribbble&logoColor=EA4C89)](#)  
+## 🔗 Connect & Social  
+
+<p align="center">
+  <a href="https://github.com/n23dcpt085-cyber"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-9ccaff?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Behance-bdd9ff?style=flat&logo=behance&logoColor=1769ff"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dribbble-ffd6e8?style=flat&logo=dribbble&logoColor=EA4C89"/></a>
+</p>
 
 ---
 
