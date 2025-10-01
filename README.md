@@ -26,9 +26,9 @@
 ---
 
 ## 🛠️ Skills
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)  
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)  
-![MOS](https://img.shields.io/badge/-MOS-05122A?style=flat)  
+![Figma](https://img.shields.io/badge/-Figma-ffe4ec?style=flat&logo=figma&logoColor=ff3366)  
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-fde2d3?style=flat&logo=adobe-illustrator&logoColor=ff6600)  
+![MOS](https://img.shields.io/badge/-MOS-d6e5fa?style=flat)  
 
 ---
 
@@ -39,9 +39,18 @@
 
 ## 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/n23dcpt085-cyber)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)  
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](#)  
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9ccaff?style=flat&logo=linkedin&logoColor=0A66C2)](#)  
+[![Behance](https://img.shields.io/badge/Behance-bdd9ff?style=flat&logo=behance&logoColor=1769ff)](#)  
+[![Dribbble](https://img.shields.io/badge/Dribbble-ffd6e8?style=flat&logo=dribbble&logoColor=EA4C89)](#)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n23dcpt085-cyber&show_icons=true&theme=default_pastel&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n23dcpt085-cyber&layout=compact&theme=default_pastel&hide_border=true" alt="Top Langs" height="165"/>
+</p>
 
 ---
 
