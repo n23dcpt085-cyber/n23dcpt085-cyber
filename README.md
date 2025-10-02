@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/n23dcpt085-cyber/Testing/main/banner.jpg" alt="Banner" />
+</p>
 # 👋 Xin chào, mình là Nguyễn Lâm Bảo Khuyên  
 
 🎨 **UI/UX Designer** | 💻 Yêu thích thiết kế & công nghệ  
