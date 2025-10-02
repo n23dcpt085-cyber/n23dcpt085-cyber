@@ -26,9 +26,16 @@
 ---
 
 ## 🛠️ Skills
-![Figma](https://img.shields.io/badge/-Figma-ffe4ec?style=flat&logo=figma&logoColor=ff3366)  
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-fde2d3?style=flat&logo=adobe-illustrator&logoColor=ff6600)  
-![MOS](https://img.shields.io/badge/-MOS-d6e5fa?style=flat)  
+ 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+</p>
+
 
 ---
 
